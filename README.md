@@ -10,11 +10,11 @@ When you open a page, you should see an app as below:
 
 Click one of three buttons - Rock, Paper or Scissors. The App will select one randomly. If you beat it, you win it. 
 
-![An example of win](RPS2.jpg?raw=true "page example")
+![An example of win](RPS3.jpg?raw=true "page example")
 
 It is possible for you to also lose, just as seen on the screen below.
 
-![An example of lose](RPS3.jpg?raw=true "page example")
+![An example of lose](RPS2.jpg?raw=true "page example")
 
 Additionally, it is also possible to tie.
 
